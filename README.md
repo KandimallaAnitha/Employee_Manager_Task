@@ -1,5 +1,15 @@
 # Employee Attendance Management System
 
+## 👤 Developer / Project Owner
+
+| Field | Details |
+|-------|--------|
+| **Name** | KANDIMALLA ANITHA |
+| **College** | SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE |
+| **Contact Number** | 9666630464 |
+
+---
+
 A full-stack **Employee Attendance Management System** built using **React** for the frontend and **Node.js + Express + MongoDB** for the backend.  
 This system allows employees to mark attendance, managers to view analytics, and admins to manage users securely.
 
@@ -103,20 +113,5 @@ project Photos :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fca8a13f-3929-4227-bf61-285bda7ad241" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7fa3b8b-0071-41ca-bfdd-967b8781d607" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d6ade2f-873d-4719-8f1a-4ac8df5a41ab" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
